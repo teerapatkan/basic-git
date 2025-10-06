@@ -1,1 +1,2 @@
 echo "Greeting message line 1"
+test
